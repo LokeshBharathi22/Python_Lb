@@ -1,0 +1,10 @@
+n=2
+print(type(n))
+n='loki'
+print(type(n))
+n=("na","ds")
+print(type(n))
+n=["dfd","dd"]
+print(type(n))
+n={'4e','45'}
+print(type(n))
